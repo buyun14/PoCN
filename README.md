@@ -1,3 +1,5 @@
+### 实验二 以太网协议
+[传送门](https://buyun14.github.io/2024/11/19/%E8%AE%A1%E7%BD%91%E5%AE%9E%E9%AA%8C%E4%BA%8C/)
 ### 初次提交为TCP/UDP连接的python实现
 环境自己配，pycharm/vscode随意，缺包就下
 报错先问AI
